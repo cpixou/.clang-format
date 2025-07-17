@@ -8,7 +8,7 @@ BreakBeforeBraces: Allman
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
-#AlwaysBreakAfterReturnType: All            set to All to force return type on its own line, not required
+#AlwaysBreakAfterReturnType: All            set to 'All' to force return type on its own line, not required
 #AlwaysBreakAfterDefinitionReturnType: All  //
 
 ColumnLimit: 80
@@ -21,4 +21,4 @@ SpacesBeforeTrailingComments: 2
 SpaceBeforeParens: Never
 Cpp11BracedListStyle: true
 
-SortIncludes: true # set to false to keep original include order
+SortIncludes: true # set to 'false' to keep original include order
