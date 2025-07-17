@@ -8,8 +8,8 @@ BreakBeforeBraces: Allman
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
-AlwaysBreakAfterReturnType: All           # set to All to force return type on its own line, not required
-AlwaysBreakAfterDefinitionReturnType: All # //
+#AlwaysBreakAfterReturnType: All           # set to All to force return type on its own line, not required
+#AlwaysBreakAfterDefinitionReturnType: All # //
 
 ColumnLimit: 80
 
